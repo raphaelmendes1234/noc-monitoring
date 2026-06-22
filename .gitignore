@@ -1,0 +1,5 @@
+# Não commitar segredos
+.env
+
+# Dados locais (se algum volume for bind mount)
+data/
